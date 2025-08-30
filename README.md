@@ -33,12 +33,6 @@ Here’s how it improves lives:
 - 🔋 Types include **Alkaline, Lithium Ion, Lithium Coin Cells**, and more.
 - 🛠️ Data includes hazards, first aid, handling, storage, and disposal guidelines.
 
-Examples:
-
-- 📄 [Alkaline SDS (01/23)](https://data.energizer.com/wp-content/uploads/2023/01/alkaline-01-23-Energizer-1.pdf)
-- 🔥 [Lithium-Ion AIS (01/23)](https://www.webstaurantstore.com/documents/sds/lithium-ion-ais-sds-01-23-energizer-1.pdf)
-- 💿 [Lithium Coin Battery AIS (12/23)](https://www.scribd.com/document/720545863/Lithium-Coin-Batteries-AIS-SDS-12-23-Energizer)
-
 ---
 
 ## 🤝 Contribute & Make a Difference
